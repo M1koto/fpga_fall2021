@@ -1,0 +1,61 @@
+The design has assertions or cover properties.
+The assertion browser can be used to view them. Click on the assertion toolbar button or use the menu 'Window->Panes->Assertion' to open it.
+The file 'sim/counter_testbench.vpd' was opened successfully.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The VPD file for 'V1' has been regenerated. Please use 'Reload Databases' instead.
+No design was updated from VPD file.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+Warning: [AD-MDTS] Active drivers analysis is not possible
+  Missing dump for signal 'counter_testbench.LEDS[3]' at time '10'.
+  Active driver analysis will not be done.
+  Please dump this signal if you want active drivers analysis to be performed.
+n/generic.sdb'
+1 driver (1 possibly active statement) found for signal: counter_testbench.LEDS[3]
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+1 driver (1 active statement) found for signal: counter_testbench.LEDS[3:0]
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+2 drivers (1 active statement) found for signal: counter_testbench.clock
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The design 'V1' is up to date.
+The design 'V1' is up to date.
+The design 'V1' is up to date.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The design 'V1' is updated from 4091607600 (x 10ps) to 8183247600 (x 10ps).
+The design 'V1' is updated from 8183247600 (x 10ps) to 9819903600 (x 10ps).
+The design 'V1' is updated from 9819903600 (x 10ps) to 12274887600 (x 10ps).
+The design 'V1' is updated from 12274887600 (x 10ps) to 14729871600 (x 10ps).
+The design 'V1' is updated from 14729871600 (x 10ps) to 15957363600 (x 10ps).
+The design 'V1' is updated from 15957363600 (x 10ps) to 18003183600 (x 10ps).
+The design 'V1' is updated from 18003183600 (x 10ps) to 19230675600 (x 10ps).
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The design 'V1' is updated from 21685659600 (x 10ps) to 25368135600 (x 10ps).
+The design 'V1' is updated from 25368135600 (x 10ps) to 26595627600 (x 10ps).
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The design 'V1' is updated from 28232283600 (x 10ps) to 29868939600 (x 10ps).
+The design 'V1' is updated from 29868939600 (x 10ps) to 31914759600 (x 10ps).
+The design 'V1' is updated from 31914759600 (x 10ps) to 33960579600 (x 10ps).
+The design 'V1' is updated from 33960579600 (x 10ps) to 36006399600 (x 10ps).
+The design 'V1' is updated from 36006399600 (x 10ps) to 37643055600 (x 10ps).
+The design 'V1' is updated from 37643055600 (x 10ps) to 39279711600 (x 10ps).
+The design 'V1' is updated from 39279711600 (x 10ps) to 46235499600 (x 10ps).
+The design 'V1' is updated from 46235499600 (x 10ps) to 48690483600 (x 10ps).
+The design 'V1' is updated from 48690483600 (x 10ps) to 69557847600 (x 10ps).
+The design 'V1' is up to date.
+The design 'V1' is up to date.
+The design 'V1' is up to date.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The VPD file for 'V1' has been regenerated. Please use 'Reload Databases' instead.
+No design was updated from VPD file.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The design 'V1' is up to date.
+The design 'V1' is up to date.
+The design 'V1' is up to date.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.
+The file '/home/cc/eecs151/fl21/class/eecs151-aal/Desktop/fpga_labs_fa21/lab2/sim/counter_testbench.vpd' was opened successfully.

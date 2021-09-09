@@ -29,7 +29,14 @@ module counter_testbench();
 
         // TODO: Change input values and step forward in time to test
         // your counter and its clock enable/disable functionality.
+	ce = 1'b1;
+	repeat (125002) @(posedge clock);
+	//repeat (1111) @(posedge clock);
+	assert (LEDS[0] == 1'b1);
 
+        ce = 1'b1;
+        repeat (250010) @(posedge clock);
+        assert (LEDS[1] == 1'b1);
 
         `ifndef IVERILOG
             $vcdplusoff;
